@@ -20,6 +20,7 @@ CodeLLaMA-chat - The project aims to train a conversational model based on CodeL
   - English version: https://huggingface.co/datasets/shareAI/ShareGPT-Chinese-English-90k/blob/main/sharegpt_jsonl/computer_en_26k.jsonl
   - ... (You can also translate them to other languages with GPT)
   - change-info-tool for this data: https://huggingface.co/datasets/shareAI/ShareGPT-Chinese-English-90k/blob/main/shareGPT/change_info.py
+  - train-llm-tool for this data: https://github.com/yangjianxin1/Firefly
 
 ## Todo
 - Train a multi-turn dialogue version.
