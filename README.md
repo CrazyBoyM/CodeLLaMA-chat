@@ -4,15 +4,15 @@ CodeLLaMA-chat - The project aims to train a conversational model based on CodeL
 
 # Model
 - Original base model
- - codellama base 34b: https://huggingface.co/TheBloke/CodeLlama-34B-fp16
- - codellama python 34b: https://huggingface.co/TheBloke/CodeLlama-34B-Python-fp16
- - codellama instruct 34b: https://huggingface.co/TheBloke/CodeLlama-34B-Instruct-fp16
- - codellama base 13b: https://huggingface.co/TheBloke/CodeLlama-13B-fp16
- - codellama python 13b: https://huggingface.co/TheBloke/CodeLlama-13B-Python-fp16
- - codellama instruct 13b: https://huggingface.co/TheBloke/CodeLlama-13B-Instruct-fp16
- - codellama base 7b: https://huggingface.co/TheBloke/CodeLlama-7B-fp16
- - codellama python 7b: https://huggingface.co/TheBloke/CodeLlama-7B-Python-fp16
- - codellama instruct 7b: https://huggingface.co/TheBloke/CodeLlama-7B-Instruct-fp16
+  - codellama base 34b: https://huggingface.co/TheBloke/CodeLlama-34B-fp16
+  - codellama python 34b: https://huggingface.co/TheBloke/CodeLlama-34B-Python-fp16
+  - codellama instruct 34b: https://huggingface.co/TheBloke/CodeLlama-34B-Instruct-fp16
+  - codellama base 13b: https://huggingface.co/TheBloke/CodeLlama-13B-fp16
+  - codellama python 13b: https://huggingface.co/TheBloke/CodeLlama-13B-Python-fp16
+  - codellama instruct 13b: https://huggingface.co/TheBloke/CodeLlama-13B-Instruct-fp16
+  - codellama base 7b: https://huggingface.co/TheBloke/CodeLlama-7B-fp16
+  - codellama python 7b: https://huggingface.co/TheBloke/CodeLlama-7B-Python-fp16
+  - codellama instruct 7b: https://huggingface.co/TheBloke/CodeLlama-7B-Instruct-fp16
 
 ## Datasets
 - ShareGPT-90K's computer 26k
