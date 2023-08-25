@@ -6,3 +6,11 @@ CodeLLaMA-chat - 项目旨在基于codellama进行对话训练，提供一个多
 - 代码推理、API部署
 - 与IDE插件对接
   
+# CodeLLaMA-chat
+
+CodeLLaMA-chat - The project aims to train a conversational model based on CodeLLaMA, providing a multi-turn dialogue version to assist with code development and troubleshooting.
+
+## Todo
+- Train a multi-turn dialogue version.
+- Code inference and API deployment.
+- Integration with IDE plugins.
