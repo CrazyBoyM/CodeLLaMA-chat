@@ -3,7 +3,7 @@
 CodeLLaMA-chat - The project aims to train a conversational model based on CodeLLaMA, providing a multi-turn dialogue version to assist with code development and troubleshooting.
 
 # Model
-- Original base model
+- base model
   - codellama base 34b: https://huggingface.co/TheBloke/CodeLlama-34B-fp16
   - codellama python 34b: https://huggingface.co/TheBloke/CodeLlama-34B-Python-fp16
   - codellama instruct 34b: https://huggingface.co/TheBloke/CodeLlama-34B-Instruct-fp16
@@ -14,7 +14,9 @@ CodeLLaMA-chat - The project aims to train a conversational model based on CodeL
   - codellama python 7b: https://huggingface.co/TheBloke/CodeLlama-7B-Python-fp16
   - codellama instruct 7b: https://huggingface.co/TheBloke/CodeLlama-7B-Instruct-fp16
 - Chat model
-  - come soon
+  - Chinese Chat Version
+    - based model: CodeLlama-13B-fp16, train dataset: computer_zh_26k
+    - model link: https://huggingface.co/shareAI/CodeLLaMA-chat-13b-Chinese
 
 ## Datasets
 - ShareGPT-90K's computer 26k
