@@ -13,6 +13,8 @@ CodeLLaMA-chat - The project aims to train a conversational model based on CodeL
   - codellama base 7b: https://huggingface.co/TheBloke/CodeLlama-7B-fp16
   - codellama python 7b: https://huggingface.co/TheBloke/CodeLlama-7B-Python-fp16
   - codellama instruct 7b: https://huggingface.co/TheBloke/CodeLlama-7B-Instruct-fp16
+- Chat model
+  - come soon
 
 ## Datasets
 - ShareGPT-90K's computer 26k
