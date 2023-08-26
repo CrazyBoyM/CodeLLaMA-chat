@@ -17,6 +17,8 @@ CodeLLaMA-chat - The project aims to train a conversational model based on CodeL
   - Chinese Chat Version
     - based model: CodeLlama-13B-fp16, train dataset: computer_zh_26k
     - model link: https://huggingface.co/shareAI/CodeLLaMA-chat-13b-Chinese
+  - English Chat Version
+    - Come soon
 
 ## Datasets
 - ShareGPT-90K's computer 26k
