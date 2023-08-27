@@ -29,7 +29,6 @@ CodeLLaMA-chat - The project aims to train a conversational model based on CodeL
   - train-llm-tool for this data: https://github.com/yangjianxin1/Firefly
 
 ## How to use
-run:
 ```
 # from Firefly
 from transformers import AutoModelForCausalLM, AutoTokenizer
@@ -37,11 +36,11 @@ import torch
 
 
 def main():
-    model_name = 'shareAI/CodeLLaMA-chat-13b-Chinese' # change to your model path
+    model_name = 'shareAI/CodeLLaMA-chat-13b-Chinese' # set with your model path
 
     device = 'cuda'
-    max_new_tokens = 500    # 每轮对话最多生成多少个token
-    history_max_len = 1000  # 模型记忆的最大token长度
+    max_new_tokens = 500    # max tokens for each response
+    history_max_len = 1000  # memory length 
     top_p = 0.9
     temperature = 0.35
     repetition_penalty = 1.0
